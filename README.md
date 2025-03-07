@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SmitKarwade
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning android development (java)
+- 🌱 I’m currently developing native android apps using java, kotlin and jetpack compose and still gaining the exposure
 
 
 <!---
